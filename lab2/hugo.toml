@@ -1,0 +1,4 @@
+baseURL = 'https://gvidas28.github.io/'
+languageCode = 'en-us'
+title = 'Gvido Website'
+theme = 'hugo-PaperMod'
